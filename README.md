@@ -4,7 +4,7 @@
 I designed a simple 4 button macropad by following the tutorial provided by Hackclub
 
 CHALLENGES:
-I found it extremely difficult to follow the last step instructions relating towards the firmware and making a repo of the project, becausse I zero past experience with handling the different softwares.
+I found it extremely difficult to follow the last step instructions relating towards the firmware and making a repo of the project, because i had zero past experience with handling the different softwares. 
 
 SPECIFACTIONS:
 4x Cherry MX Switches
